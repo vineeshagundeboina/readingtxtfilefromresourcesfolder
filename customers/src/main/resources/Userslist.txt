@@ -1,0 +1,106 @@
+[
+    {
+        "Id": 1,
+        "customerName": "Anna",
+        "customerSalary": 500000.0,
+        "customerAge": 32
+    },
+    {
+        "Id": 2,
+        "customerName": "Devas",
+        "customerSalary": 400000.0,
+        "customerAge": 34
+    },
+    {
+        "Id": 3,
+        "customerName": "Veena",
+        "customerSalary": 700000.0,
+        "customerAge": 38
+    },
+    {
+        "Id": 4,
+        "customerName": "Jhon",
+        "customerSalary": 800000.0,
+        "customerAge": 44
+    },
+    {
+        "Id": 5,
+        "customerName": "George",
+        "customerSalary": 600000.0,
+        "customerAge": 36
+    },
+    
+    {
+        "Id": 6,
+        "customerName": "Kiran",
+        "customerSalary": 700000.0,
+        "customerAge": 36
+    },
+  
+    {
+        "Id": 7,
+        "customerName": "Alex",
+        "customerSalary": 550000.0,
+        "customerAge": 30
+    },
+    {
+        "Id": 8,
+        "customerName": "Watson",
+        "customerSalary": 600000.0,
+        "customerAge": 34
+    },
+    {
+        "Id": 9,
+        "customerName": "Manu",
+        "customerSalary": 500000.0,
+        "customerAge": 30
+    },
+    {
+        "Id": 10,
+        "customerName": "Joseph",
+        "customerSalary": 650000.0,
+        "customerAge": 36
+    },
+    {
+        "Id": 11,
+        "customerName": "Sahal",
+        "customerSalary": 700000.0,
+        "customerAge": 36
+    },
+    {
+        "Id": 12,
+        "customerName": "Fazil",
+        "customerSalary": 600000.0,
+        "customerAge": 36
+    },
+    {
+        "Id": 13,
+        "customerName": "Alen",
+        "customerSalary": 450000.0,
+        "customerAge": 30
+    },
+    {
+        "Id": 14,
+        "customerName": "Sam",
+        "customerSalary": 600000.0,
+        "customerAge": 33
+    },
+    {
+        "Id": 15,
+        "customerName": "Annu",
+        "customerSalary": 700000.0,
+        "customerAge": 28
+    },
+    {
+        "Id": 16,
+        "customerName": "Ammu",
+        "customerSalary": 650000.0,
+        "customerAge": 29
+    },
+    {
+        "Id": 17,
+        "customerName": "Anupma",
+        "customerSalary": 450000.0,
+        "customerAge": 30
+    }
+]
